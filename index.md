@@ -13,3 +13,6 @@ Es geht also vordergründig um Korruption.
 * encourages to think the unthinkable
 
 <img src="http://hpmax.gmxhome.de/de/index-Dateien/image002.jpg">
+
+> Dancing in the rain is better than
+> sleeping in the sun.
