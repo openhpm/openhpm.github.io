@@ -11,3 +11,5 @@ Es geht also vordergründig um Korruption.
 * loves chocolate cookies
 * listens carefully to everybody
 * encourages to think the unthinkable
+
+<img src="http://hpmax.gmxhome.de/de/index-Dateien/image002.jpg">
